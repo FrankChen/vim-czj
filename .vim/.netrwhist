@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/qxczj/tmp/github_test/.git/logs/refs/heads'
+let g:netrw_dirhist_2='/home/qxczj/tmp/github_test/.git/logs'
+let g:netrw_dirhist_3='/home/qxczj/tmp/github_test/.git/logs/refs'
+let g:netrw_dirhist_4='/home/qxczj/tmp/github_test/.git/logs/refs/heads'
+let g:netrw_dirhist_5='/home/qxczj/tmp/github_test/.git/logs/refs'
+let g:netrw_dirhist_6='/home/qxczj/tmp/github_test/.git/logs'
+let g:netrw_dirhist_7='/home/qxczj/tmp/github_test/.git'

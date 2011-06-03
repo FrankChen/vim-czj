@@ -1,0 +1,28 @@
+set nobackup
+set tabstop=4
+set cindent shiftwidth=4
+syntax on
+set hlsearch
+set showmode
+set ruler
+set backspace=indent,eol,start
+set nocompatible
+set showcmd
+set nu
+set tw=0
+colorscheme desert
+"set incsearch  
+
+map <F7> :TlistToggle<CR>
+map <F8> [I
+
+let Tlist_Use_Right_Window=1
+let Tlist_File_Fold_Auto_Close=1
+let Tlist_Show_One_File=1
+let Tlist_File_Fold_Auto_Close=1
+let Tlist_WinWidth=50
+
+set fileencodings=utf-8,gb2312,gbk,gb18030
+set termencoding=utf-8
+set fileformats=unix
+set encoding=utf-8
